@@ -1,0 +1,9 @@
+MLOps stands for Machine Learning Operations. It is a 
+practice that combines Machine Learning, DevOps, and 
+Data Engineering to deploy and maintain ML models in 
+production reliably and efficiently.
+
+MLOps tools include MLflow for experiment tracking, 
+Docker for containerization, Kubernetes for orchestration,
+FastAPI for model serving, LangChain for LLM applications,
+and ChromaDB for vector stor

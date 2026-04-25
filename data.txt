@@ -1,0 +1,21 @@
+MLOps stands for Machine Learning Operations. It is a 
+practice that combines Machine Learning, DevOps, and 
+Data Engineering to deploy and maintain ML models in 
+production reliably and efficiently.
+
+MLOps tools include MLflow for experiment tracking, 
+Docker for containerization, Kubernetes for orchestration,
+FastAPI for model serving, LangChain for LLM applications,
+and ChromaDB for vector storage.
+
+DevOps focuses on software development and IT operations.
+MLOps extends DevOps principles to machine learning 
+systems, adding data versioning, model monitoring, 
+experiment tracking, and feature stores to the standard
+DevOps pipeline.
+
+LangChain is a framework for building LLM applications.
+It provides tools for prompt management, memory, 
+retrieval augmented generation, and agent creation.
+ChromaDB is a vector database used to store and retrieve
+embeddings for RAG applications.

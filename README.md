@@ -3,7 +3,7 @@
 An intelligent document Q&A system powered by RAG (Retrieval-Augmented Generation).
 Upload any PDF and ask questions — get accurate answers instantly.
 
-🚀 **Live Demo**: http://13.233.74.93:8501
+🚀 **Live Demo**: http://13.201.74.28:8501
 
 ## What it does
 
